@@ -1,13 +1,10 @@
-<h1>Recipe Application</h1>
+# Flutter Projects
 
-<p>This is a mobile application made with flutter. The applicaiton provides recipes based on the pre input files in the system. The application uses an offline data stored in the system</p>
+This is a repository for all my flutter applications using 
 
-<h4>List page Screenshot1</h4><br>
-<img src="_screenshots/list1.png" width="200"><br><br>
-<h4>List page Screenshot2</h4><br>
-<img src="_screenshots/list2.png" width="200"><br><br>
-<h4>Detail page Screenshot1</h4><br>
-<img src="_screenshots/detail1.png" width="200"><br><br>
-<h4>Detail page Screenshot2</h4><br>
-<img src="_screenshots/detail2.png" width="200"><br>
-<h4></h4>
+## Screenshots
+Screenshots for the applications in the repository
+
+### Recipe Application
+![Home page](screenshots/recipe_app/list1.png)
+![Details Page](screenshots/recipe_app/detail1.png)
